@@ -1,0 +1,15 @@
+{
+  "name": "mycontacts",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Santos Martins",
+  "license": "ISC",
+  "description": "Api to store contacts",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
