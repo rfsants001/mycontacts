@@ -11,7 +11,8 @@
   "license": "ISC",
   "description": "Api to store contacts",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
